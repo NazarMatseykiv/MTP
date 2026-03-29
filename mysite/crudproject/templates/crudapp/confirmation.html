@@ -1,0 +1,14 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<h2>Підтвердження видалення</h2>
+
+<p>Ви дійсно хочете видалити замовлення "{{ order }}"?</p>
+
+<form method="post">
+    {% csrf_token %}
+    <button type="submit">Так, видалити</button>
+</form>
+
+<a href="{% url 'show_orders' %}">Скасувати</a>
+{% endblock %}

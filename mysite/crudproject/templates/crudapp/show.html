@@ -1,0 +1,33 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<h2>Список замовлень</h2>
+
+<a href="{% url 'create_order' %}">Додати нове замовлення</a>
+<br><br>
+
+<table border="1" cellpadding="10">
+    <tr>
+        <th>ID</th>
+        <th>Клієнт</th>
+        <th>Товар</th>
+        <th>Кількість</th>
+        <th>Дата</th>
+        <th>Дії</th>
+    </tr>
+
+    {% for order in orders %}
+    <tr>
+        <td>{{ order.id }}</td>
+        <td>{{ order.customer_name }}</td>
+        <td>{{ order.product_name }}</td>
+        <td>{{ order.quantity }}</td>
+        <td>{{ order.created_at }}</td>
+        <td>
+            <a href="{% url 'update_order' order.id %}">Редагувати</a> |
+            <a href="{% url 'delete_order' order.id %}">Видалити</a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}
