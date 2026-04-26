@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog</title>
+</head>
+<body>
+
+<h1>Home page</h1>
+
+<p>Кількість статей: {{ articles|length }}</p>
+
+{% for article in articles %}
+    <hr>
+    <h2>{{ article.title }}</h2>
+    <p>{{ article.description }}</p>
+    <p><b>Категорія:</b> {{ article.category }}</p>
+    <p><b>Дата:</b> {{ article.pub_date }}</p>
+
+    {% if article.images.all %}
+        {% for img in article.images.all %}
+    <img src="{{ img.image.url }}" width="200">
+{% endfor %}
+    {% endif %}
+
+{% endfor %}
+
+</body>
+</html>
