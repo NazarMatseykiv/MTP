@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "93XNqC5bJ8A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NazarM\\source\\repos\\Lab6\\CurrencyConverter\\CurrencyConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NazarM\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.6\\microsoft.aspnetcore.app.internal.assets.10.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

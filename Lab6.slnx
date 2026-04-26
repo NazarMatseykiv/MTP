@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CurrencyConverter/CurrencyConverter.csproj" Id="1d87c72f-d42c-465a-92a9-2325304d9976" />
+  <Project Path="Dorm.DTOs/Dorm.DTOs.csproj" />
+  <Project Path="DormUI/DormUI.csproj" />
+  <Project Path="DormWebApi/DormWebApi.csproj" />
+</Solution>

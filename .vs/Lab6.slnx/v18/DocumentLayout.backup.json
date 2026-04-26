@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NazarM\\source\\repos\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D87C72F-D42C-465A-92A9-2325304D9976}|CurrencyConverter\\CurrencyConverter.csproj|c:\\users\\nazarm\\source\\repos\\lab6\\currencyconverter\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D87C72F-D42C-465A-92A9-2325304D9976}|CurrencyConverter\\CurrencyConverter.csproj|solutionrelative:currencyconverter\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D87C72F-D42C-465A-92A9-2325304D9976}|CurrencyConverter\\CurrencyConverter.csproj|c:\\users\\nazarm\\source\\repos\\lab6\\currencyconverter\\components\\pages\\currencyconvpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D87C72F-D42C-465A-92A9-2325304D9976}|CurrencyConverter\\CurrencyConverter.csproj|solutionrelative:currencyconverter\\components\\pages\\currencyconvpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D87C72F-D42C-465A-92A9-2325304D9976}|CurrencyConverter\\CurrencyConverter.csproj|c:\\users\\nazarm\\source\\repos\\lab6\\currencyconverter\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D87C72F-D42C-465A-92A9-2325304D9976}|CurrencyConverter\\CurrencyConverter.csproj|solutionrelative:currencyconverter\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D87C72F-D42C-465A-92A9-2325304D9976}|CurrencyConverter\\CurrencyConverter.csproj|c:\\users\\nazarm\\source\\repos\\lab6\\currencyconverter\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D87C72F-D42C-465A-92A9-2325304D9976}|CurrencyConverter\\CurrencyConverter.csproj|solutionrelative:currencyconverter\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D87C72F-D42C-465A-92A9-2325304D9976}|CurrencyConverter\\CurrencyConverter.csproj|c:\\users\\nazarm\\source\\repos\\lab6\\currencyconverter\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D87C72F-D42C-465A-92A9-2325304D9976}|CurrencyConverter\\CurrencyConverter.csproj|solutionrelative:currencyconverter\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D87C72F-D42C-465A-92A9-2325304D9976}|CurrencyConverter\\CurrencyConverter.csproj|c:\\users\\nazarm\\source\\repos\\lab6\\currencyconverter\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D87C72F-D42C-465A-92A9-2325304D9976}|CurrencyConverter\\CurrencyConverter.csproj|solutionrelative:currencyconverter\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D87C72F-D42C-465A-92A9-2325304D9976}|CurrencyConverter\\CurrencyConverter.csproj|c:\\users\\nazarm\\source\\repos\\lab6\\currencyconverter\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D87C72F-D42C-465A-92A9-2325304D9976}|CurrencyConverter\\CurrencyConverter.csproj|solutionrelative:currencyconverter\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\Lab6\\CurrencyConverter\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "CurrencyConverter\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\Lab6\\CurrencyConverter\\Components\\_Imports.razor",
+              "RelativeToolTip": "CurrencyConverter\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T14:59:55.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotFound.razor",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\Lab6\\CurrencyConverter\\Components\\Pages\\NotFound.razor",
+              "RelativeDocumentMoniker": "CurrencyConverter\\Components\\Pages\\NotFound.razor",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\Lab6\\CurrencyConverter\\Components\\Pages\\NotFound.razor",
+              "RelativeToolTip": "CurrencyConverter\\Components\\Pages\\NotFound.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T14:58:39.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\Lab6\\CurrencyConverter\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "CurrencyConverter\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\Lab6\\CurrencyConverter\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "CurrencyConverter\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T14:56:21.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\Lab6\\CurrencyConverter\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "CurrencyConverter\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\Lab6\\CurrencyConverter\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "CurrencyConverter\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T14:56:09.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\Lab6\\CurrencyConverter\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "CurrencyConverter\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\Lab6\\CurrencyConverter\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "CurrencyConverter\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T14:56:03.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\Lab6\\CurrencyConverter\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "CurrencyConverter\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\Lab6\\CurrencyConverter\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "CurrencyConverter\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T14:54:39.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyConvPage.razor",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\Lab6\\CurrencyConverter\\Components\\Pages\\CurrencyConvPage.razor",
+              "RelativeDocumentMoniker": "CurrencyConverter\\Components\\Pages\\CurrencyConvPage.razor",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\Lab6\\CurrencyConverter\\Components\\Pages\\CurrencyConvPage.razor",
+              "RelativeToolTip": "CurrencyConverter\\Components\\Pages\\CurrencyConvPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T14:54:21.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

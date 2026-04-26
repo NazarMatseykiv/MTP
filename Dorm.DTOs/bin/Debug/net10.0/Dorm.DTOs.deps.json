@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Dorm.DTOs/1.0.0": {
+        "runtime": {
+          "Dorm.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dorm.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

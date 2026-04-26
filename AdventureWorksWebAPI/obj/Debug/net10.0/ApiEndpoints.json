@@ -1,0 +1,95 @@
+[
+  {
+    "ContainingType": "AdventureWorksWebAPI.Controllers.SalesOrderDetailsController",
+    "Method": "GetByOrderId",
+    "RelativePath": "api/SalesOrderDetails/by-order/{salesOrderId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "salesOrderId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[AdventureWorks.DTOs.SalesOrderDetailDto, AdventureWorks.DTOs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AdventureWorksWebAPI.Controllers.SalesOrderHeadersController",
+    "Method": "GetAll",
+    "RelativePath": "api/SalesOrderHeaders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[AdventureWorks.DTOs.SalesOrderHeaderDto, AdventureWorks.DTOs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AdventureWorksWebAPI.Controllers.SalesOrderHeadersController",
+    "Method": "GetById",
+    "RelativePath": "api/SalesOrderHeaders/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AdventureWorks.DTOs.SalesOrderHeaderDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AdventureWorksWebAPI.Controllers.SalesOrderHeadersController",
+    "Method": "Update",
+    "RelativePath": "api/SalesOrderHeaders/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "AdventureWorks.DTOs.SalesOrderHeaderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

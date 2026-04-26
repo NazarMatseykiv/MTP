@@ -1,0 +1,52 @@
+﻿@page "/currency-converter"
+@rendermode InteractiveServer
+
+<h3>Конвертер валюти</h3>
+
+<div class="mb-3">
+    <label>Введіть суму в гривнях:</label>
+    <input type="number"
+           step="0.01"
+           class="form-control"
+           @bind="UahAmount" />
+</div>
+
+<div class="mb-3">
+    <label>Курс долара (грн):</label>
+    <input type="number"
+           step="0.01"
+           class="form-control"
+           @bind="UsdRate" />
+</div>
+
+<button class="btn btn-primary" @onclick="Convert">
+    Конвертувати
+</button>
+
+@if (!string.IsNullOrWhiteSpace(ResultText))
+{
+    <div class="alert alert-info mt-3">
+        @ResultText
+    </div>
+}
+
+@code {
+    private decimal UahAmount { get; set; }
+
+    private decimal UsdRate { get; set; } = 40;
+
+    private string ResultText { get; set; } = string.Empty;
+
+    private void Convert()
+    {
+        if (UsdRate <= 0)
+        {
+            ResultText = "Курс долара має бути більше 0.";
+            return;
+        }
+
+        decimal usd = UahAmount / UsdRate;
+
+        ResultText = $"{UahAmount:F2} грн = {usd:F2} USD";
+    }
+}

@@ -1,0 +1,11 @@
+C:\Users\NazarM\source\repos\Lab6\AdventureWorks.DTOs\bin\Debug\net10.0\AdventureWorks.DTOs.deps.json
+C:\Users\NazarM\source\repos\Lab6\AdventureWorks.DTOs\bin\Debug\net10.0\AdventureWorks.DTOs.dll
+C:\Users\NazarM\source\repos\Lab6\AdventureWorks.DTOs\bin\Debug\net10.0\AdventureWorks.DTOs.pdb
+C:\Users\NazarM\source\repos\Lab6\AdventureWorks.DTOs\obj\Debug\net10.0\AdventureWorks.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NazarM\source\repos\Lab6\AdventureWorks.DTOs\obj\Debug\net10.0\AdventureWorks.DTOs.AssemblyInfoInputs.cache
+C:\Users\NazarM\source\repos\Lab6\AdventureWorks.DTOs\obj\Debug\net10.0\AdventureWorks.DTOs.AssemblyInfo.cs
+C:\Users\NazarM\source\repos\Lab6\AdventureWorks.DTOs\obj\Debug\net10.0\AdventureWorks.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\NazarM\source\repos\Lab6\AdventureWorks.DTOs\obj\Debug\net10.0\AdventureWorks.DTOs.dll
+C:\Users\NazarM\source\repos\Lab6\AdventureWorks.DTOs\obj\Debug\net10.0\refint\AdventureWorks.DTOs.dll
+C:\Users\NazarM\source\repos\Lab6\AdventureWorks.DTOs\obj\Debug\net10.0\AdventureWorks.DTOs.pdb
+C:\Users\NazarM\source\repos\Lab6\AdventureWorks.DTOs\obj\Debug\net10.0\ref\AdventureWorks.DTOs.dll

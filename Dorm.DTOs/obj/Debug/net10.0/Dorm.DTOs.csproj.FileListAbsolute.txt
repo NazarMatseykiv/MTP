@@ -1,0 +1,11 @@
+C:\Users\NazarM\source\repos\Lab6\Dorm.DTOs\bin\Debug\net10.0\Dorm.DTOs.deps.json
+C:\Users\NazarM\source\repos\Lab6\Dorm.DTOs\bin\Debug\net10.0\Dorm.DTOs.dll
+C:\Users\NazarM\source\repos\Lab6\Dorm.DTOs\bin\Debug\net10.0\Dorm.DTOs.pdb
+C:\Users\NazarM\source\repos\Lab6\Dorm.DTOs\obj\Debug\net10.0\Dorm.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NazarM\source\repos\Lab6\Dorm.DTOs\obj\Debug\net10.0\Dorm.DTOs.AssemblyInfoInputs.cache
+C:\Users\NazarM\source\repos\Lab6\Dorm.DTOs\obj\Debug\net10.0\Dorm.DTOs.AssemblyInfo.cs
+C:\Users\NazarM\source\repos\Lab6\Dorm.DTOs\obj\Debug\net10.0\Dorm.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\NazarM\source\repos\Lab6\Dorm.DTOs\obj\Debug\net10.0\Dorm.DTOs.dll
+C:\Users\NazarM\source\repos\Lab6\Dorm.DTOs\obj\Debug\net10.0\refint\Dorm.DTOs.dll
+C:\Users\NazarM\source\repos\Lab6\Dorm.DTOs\obj\Debug\net10.0\Dorm.DTOs.pdb
+C:\Users\NazarM\source\repos\Lab6\Dorm.DTOs\obj\Debug\net10.0\ref\Dorm.DTOs.dll
