@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="utf-8" />
+    <title>Mobile Phones App</title>
+</head>
+
+<body>
+
+    <div>
+        <h2>Усі мобільні телефони</h2>
+        <ul id="phones"></ul>
+    </div>
+
+    <div>
+        <h2>Пошук телефону за ID</h2>
+        <input type="text" id="phoneId" size="5" />
+        <input type="button" value="Пошук" onclick="find();" />
+        <p id="phone"></p>
+    </div>
+
+    <script>
+
+const uri = '/api/mobilephones';
+
+function formatItem(item)
+{
+return `${item.manufacturer} ${item.model} : $${item.price}`;
+}
+
+async function loadPhones()
+{
+const response = await fetch(uri);
+const data = await response.json();
+
+const list = document.getElementById('phones');
+list.innerHTML = '';
+
+data.forEach(item => {
+const li = document.createElement('li');
+li.textContent = formatItem(item);
+list.appendChild(li);
+});
+}
+
+async function find()
+{
+const id = document.getElementById('phoneId').value;
+
+const response = await fetch(`${uri}/${id}`);
+
+if(!response.ok)
+{
+document.getElementById('phone').textContent = "Телефон не знайдено";
+return;
+}
+
+const data = await response.json();
+
+document.getElementById('phone').textContent = formatItem(data);
+}
+
+loadPhones();
+
+    </script>
+
+</body>
+</html>

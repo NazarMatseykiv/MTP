@@ -1,0 +1,2 @@
+wwwroot\index.html
+C:\Users\NazarM\source\repos\Lab7\PhoneApp\wwwroot\index.html

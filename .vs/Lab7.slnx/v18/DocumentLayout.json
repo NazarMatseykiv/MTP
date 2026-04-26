@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NazarM\\source\\repos\\Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{206BF88C-B1B4-4D35-92FB-1DE8D671229F}|PhoneApp\\PhoneApp.csproj|c:\\users\\nazarm\\source\\repos\\lab7\\phoneapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206BF88C-B1B4-4D35-92FB-1DE8D671229F}|PhoneApp\\PhoneApp.csproj|solutionrelative:phoneapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A9C72-549A-40F2-A1E0-793882308652}|PhoneWebApi\\PhoneWebApi.csproj|c:\\users\\nazarm\\source\\repos\\lab7\\phonewebapi\\controllers\\mobilephonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A9C72-549A-40F2-A1E0-793882308652}|PhoneWebApi\\PhoneWebApi.csproj|solutionrelative:phonewebapi\\controllers\\mobilephonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A9C72-549A-40F2-A1E0-793882308652}|PhoneWebApi\\PhoneWebApi.csproj|c:\\users\\nazarm\\source\\repos\\lab7\\phonewebapi\\models\\mobilephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A9C72-549A-40F2-A1E0-793882308652}|PhoneWebApi\\PhoneWebApi.csproj|solutionrelative:phonewebapi\\models\\mobilephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A9C72-549A-40F2-A1E0-793882308652}|PhoneWebApi\\PhoneWebApi.csproj|c:\\users\\nazarm\\source\\repos\\lab7\\phonewebapi\\phonewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D03A9C72-549A-40F2-A1E0-793882308652}|PhoneWebApi\\PhoneWebApi.csproj|solutionrelative:phonewebapi\\phonewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206BF88C-B1B4-4D35-92FB-1DE8D671229F}|PhoneApp\\PhoneApp.csproj|c:\\users\\nazarm\\source\\repos\\lab7\\phoneapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{206BF88C-B1B4-4D35-92FB-1DE8D671229F}|PhoneApp\\PhoneApp.csproj|solutionrelative:phoneapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206BF88C-B1B4-4D35-92FB-1DE8D671229F}|PhoneApp\\PhoneApp.csproj|c:\\users\\nazarm\\source\\repos\\lab7\\phoneapp\\phoneapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{206BF88C-B1B4-4D35-92FB-1DE8D671229F}|PhoneApp\\PhoneApp.csproj|solutionrelative:phoneapp\\phoneapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206BF88C-B1B4-4D35-92FB-1DE8D671229F}|PhoneApp\\PhoneApp.csproj|c:\\users\\nazarm\\source\\repos\\lab7\\phoneapp\\controllers\\mobilephonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206BF88C-B1B4-4D35-92FB-1DE8D671229F}|PhoneApp\\PhoneApp.csproj|solutionrelative:phoneapp\\controllers\\mobilephonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206BF88C-B1B4-4D35-92FB-1DE8D671229F}|PhoneApp\\PhoneApp.csproj|c:\\users\\nazarm\\source\\repos\\lab7\\phoneapp\\models\\mobilephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206BF88C-B1B4-4D35-92FB-1DE8D671229F}|PhoneApp\\PhoneApp.csproj|solutionrelative:phoneapp\\models\\mobilephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\Lab7\\PhoneApp\\Program.cs",
+              "RelativeDocumentMoniker": "PhoneApp\\Program.cs",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\Lab7\\PhoneApp\\Program.cs",
+              "RelativeToolTip": "PhoneApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:44:03.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\Lab7\\PhoneApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "PhoneApp\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\Lab7\\PhoneApp\\wwwroot\\index.html",
+              "RelativeToolTip": "PhoneApp\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-26T15:43:18.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MobilePhonesController.cs",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\Lab7\\PhoneApp\\Controllers\\MobilePhonesController.cs",
+              "RelativeDocumentMoniker": "PhoneApp\\Controllers\\MobilePhonesController.cs",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\Lab7\\PhoneApp\\Controllers\\MobilePhonesController.cs",
+              "RelativeToolTip": "PhoneApp\\Controllers\\MobilePhonesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:42:00.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MobilePhone.cs",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\Lab7\\PhoneApp\\Models\\MobilePhone.cs",
+              "RelativeDocumentMoniker": "PhoneApp\\Models\\MobilePhone.cs",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\Lab7\\PhoneApp\\Models\\MobilePhone.cs",
+              "RelativeToolTip": "PhoneApp\\Models\\MobilePhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:41:42.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhoneApp",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\Lab7\\PhoneApp\\PhoneApp.csproj",
+              "RelativeDocumentMoniker": "PhoneApp\\PhoneApp.csproj",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\Lab7\\PhoneApp\\PhoneApp.csproj",
+              "RelativeToolTip": "PhoneApp\\PhoneApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-26T15:41:22.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MobilePhonesController.cs",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\Lab7\\PhoneWebApi\\Controllers\\MobilePhonesController.cs",
+              "RelativeDocumentMoniker": "PhoneWebApi\\Controllers\\MobilePhonesController.cs",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\Lab7\\PhoneWebApi\\Controllers\\MobilePhonesController.cs",
+              "RelativeToolTip": "PhoneWebApi\\Controllers\\MobilePhonesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:39:30.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MobilePhone.cs",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\Lab7\\PhoneWebApi\\Models\\MobilePhone.cs",
+              "RelativeDocumentMoniker": "PhoneWebApi\\Models\\MobilePhone.cs",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\Lab7\\PhoneWebApi\\Models\\MobilePhone.cs",
+              "RelativeToolTip": "PhoneWebApi\\Models\\MobilePhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:39:05.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneWebApi",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\Lab7\\PhoneWebApi\\PhoneWebApi.csproj",
+              "RelativeDocumentMoniker": "PhoneWebApi\\PhoneWebApi.csproj",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\Lab7\\PhoneWebApi\\PhoneWebApi.csproj",
+              "RelativeToolTip": "PhoneWebApi\\PhoneWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-26T15:38:26.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

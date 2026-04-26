@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PhoneApp/PhoneApp.csproj" />
+  <Project Path="PhoneWebApi/PhoneWebApi.csproj" />
+</Solution>
