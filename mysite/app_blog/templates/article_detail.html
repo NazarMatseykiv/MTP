@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ item.title }}{% endblock %}
+
+{% block content %}
+
+<div class="card">
+    <div class="card-body">
+
+        <h1>{{ item.title }}</h1>
+        <p><b>Дата:</b> {{ item.pub_date }}</p>
+
+        {% for image in item.images.all %}
+            <img class="detail-image" src="{{ image.image.url }}" alt="">
+        {% endfor %}
+
+        <p>{{ item.description }}</p>
+
+        <a class="btn" href="{% url 'articles-list' %}">
+            ← Назад
+        </a>
+
+        <a class="btn" href="/admin/app_blog/article/{{ item.id }}/change/">
+            Редагувати в адмінці
+        </a>
+    </div>
+</div>
+
+{% endblock %}
