@@ -1,0 +1,10 @@
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryServer\bin\Debug\BinaryServer.exe.config
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryServer\bin\Debug\BinaryServer.exe
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryServer\bin\Debug\BinaryServer.pdb
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryServer\bin\Debug\BinaryInterfaces.dll
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryServer\bin\Debug\BinaryInterfaces.pdb
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryServer\obj\Debug\BinaryServer.csproj.AssemblyReference.cache
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryServer\obj\Debug\BinaryServer.csproj.CoreCompileInputs.cache
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryServer\obj\Debug\BinarySe.68DA4869.Up2Date
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryServer\obj\Debug\BinaryServer.exe
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryServer\obj\Debug\BinaryServer.pdb

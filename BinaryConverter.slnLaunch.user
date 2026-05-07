@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BinaryServer\\BinaryServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BinaryClient\\BinaryClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryInterfaces\bin\Debug\BinaryInterfaces.dll
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryInterfaces\bin\Debug\BinaryInterfaces.pdb
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryInterfaces\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryInterfaces\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryInterfaces\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryInterfaces\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryInterfaces\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryInterfaces\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryInterfaces\obj\Debug\BinaryInterfaces.csproj.AssemblyReference.cache
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryInterfaces\obj\Debug\BinaryInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryInterfaces\obj\Debug\BinaryIn.F1A78797.Up2Date
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryInterfaces\obj\Debug\BinaryInterfaces.dll
+C:\Users\NazarM\source\repos\BinaryConverter\BinaryInterfaces\obj\Debug\BinaryInterfaces.pdb

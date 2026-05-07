@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BinaryClient/BinaryClient.csproj" Id="6ef1bd1c-4410-4a81-a305-80dcffb45f1a" />
+  <Project Path="BinaryInterfaces/BinaryInterfaces.csproj" Id="208d4efd-8a71-4569-b2b2-53d38273a800" />
+  <Project Path="BinaryServer/BinaryServer.csproj" Id="3accfda2-2d3d-4eaa-a157-302613e85e2c" />
+</Solution>
