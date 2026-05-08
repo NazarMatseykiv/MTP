@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NazarM\\source\\repos\\ProductApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5206C206-33B0-40C9-AB3A-34E6D6972801}|ProductApp\\ProductApp.csproj|c:\\users\\nazarm\\source\\repos\\productapp\\productapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5206C206-33B0-40C9-AB3A-34E6D6972801}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5206C206-33B0-40C9-AB3A-34E6D6972801}|ProductApp\\ProductApp.csproj|c:\\users\\nazarm\\source\\repos\\productapp\\productapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5206C206-33B0-40C9-AB3A-34E6D6972801}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5206C206-33B0-40C9-AB3A-34E6D6972801}|ProductApp\\ProductApp.csproj|c:\\users\\nazarm\\source\\repos\\productapp\\productapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5206C206-33B0-40C9-AB3A-34E6D6972801}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\ProductApp\\ProductApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\ProductApp\\ProductApp\\Models\\Employee.cs",
+              "RelativeToolTip": "ProductApp\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:44:54.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\ProductApp\\ProductApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\ProductApp\\ProductApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProductApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:44:52.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\NazarM\\source\\repos\\ProductApp\\ProductApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\NazarM\\source\\repos\\ProductApp\\ProductApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ProductApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:27:05.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
